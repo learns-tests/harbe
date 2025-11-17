@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typography, Paper, Link, List, ListItem } from '@mui/material';
+import { Typography, Paper } from '@mui/material';
 import LayoutMain from '../../layouts/LayoutMain';
 
 export default function AboutPage() {
