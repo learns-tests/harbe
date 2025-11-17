@@ -32,28 +32,6 @@ export default function AboutPage() {
           contributing a template to this web-app, please feel free to reach out
           to me. You can find my contact information and GitHub links below:
         </Typography>
-        <List>
-          <ListItem>
-            My GitHub profile:&nbsp;
-            <Link
-              href="https://github.com/yacax"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              https://github.com/yacax
-            </Link>
-          </ListItem>
-          <ListItem>
-            Project repository:&nbsp;
-            <Link
-              href="https://github.com/yacax/harbe"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              https://github.com/yacax/harbe
-            </Link>
-          </ListItem>
-        </List>
       </Paper>
     </LayoutMain>
   );
