@@ -25,13 +25,6 @@ export default function AboutPage() {
           from each row of your table, ensuring a customized output for every
           file.
         </Typography>
-        <Typography variant="body1" paragraph>
-          <b>Future Development Plans:</b> I&apos;m looking forward to expanding
-          the application’s capabilities. Soon, a templates page and
-          multi-language support will be added. If you&apos;re interested in
-          contributing a template to this web-app, please feel free to reach out
-          to me. You can find my contact information and GitHub links below:
-        </Typography>
       </Paper>
     </LayoutMain>
   );
